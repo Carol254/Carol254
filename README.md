@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Carol254
 - 👀 I’m interested in Software Development,Mostly Web
-- 🌱 I’m currently learning Angualr Framework
+- 🌱 I’m currently learning Angular Framework
 - 💞️ I’m looking to collaborate on Super Fun Projects,especially ones that impact lives positively.
 - 📫 How to reach me. Find me on LinkedIn  linkedin.com/in/caroline-muchemi-5938701b4 ,let's interact,let's share,let's learn
 
